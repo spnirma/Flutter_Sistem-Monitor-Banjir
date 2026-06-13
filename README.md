@@ -23,18 +23,18 @@ Aplikasi mobile berbasis **Flutter** untuk pemantauan dan pelaporan banjir wilay
 ## Fitur Utama
 
 ### Role Masyarakat
-- **Dashboard** — peta persebaran banjir, statistik wilayah rawan & potensi banjir
-- **Buat Laporan** — form lengkap dengan pilih lokasi di peta interaktif, upload foto, estimasi tinggi air
-- **Laporan Saya** — riwayat laporan beserta status penanganan
-- **Pantau Banjir** — peta dengan radius area terdampak
-- **Chat** — komunikasi langsung dengan pemerintah + chatbot banjir
+- **Dashboard** peta persebaran banjir, statistik wilayah rawan & potensi banjir
+- **Buat Laporan** form lengkap dengan pilih lokasi di peta interaktif, upload foto, estimasi tinggi air
+- **Laporan Saya** riwayat laporan beserta status penanganan
+- **Pantau Banjir** peta dengan radius area terdampak
+- **Chat** komunikasi langsung dengan pemerintah + chatbot banjir
 
 ### Role Pemerintah
-- **Dashboard** — 4 stat card (Total/Pending/Selesai/Batal) + peta persebaran
-- **Laporan Masuk** — kelola semua laporan dengan search & filter status
-- **Detail Laporan** — lihat foto, lokasi peta, dan update status penanganan
-- **Pantau Banjir** — monitoring area terdampak dengan radius visual
-- **Chat** — komunikasi dengan masyarakat pelapor
+- **Dashboard** 4 stat card (Total/Pending/Selesai/Batal) + peta persebaran
+- **Laporan Masuk** kelola semua laporan dengan search & filter status
+- **Detail Laporan** lihat foto, lokasi peta, dan update status penanganan
+- **Pantau Banjir** monitoring area terdampak dengan radius visual
+- **Chat** komunikasi dengan masyarakat pelapor
 
 ### Fitur Teknis
 - Autentikasi token-based dengan **Laravel Sanctum**
@@ -168,6 +168,3 @@ Semester 6 — Sistem Informasi
 
 ---
 
-## 📄 Lisensi
-
-Project ini dibuat untuk keperluan akademis.
