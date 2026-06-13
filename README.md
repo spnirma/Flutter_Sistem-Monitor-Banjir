@@ -164,7 +164,7 @@ dependencies:
 ## Dikembangkan Untuk
 
 Tugas Akhir / Proyek Mata Kuliah **Pemrograman Aplikasi Berbasis Platform (ABP)**  
-Semester 6 — Infromatika
+Semester 6 — Informatika
 
 ---
 
